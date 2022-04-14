@@ -1,2 +1,2 @@
 # Lógica da Programação
-Repositorio da materia Lógica da Programação
+Repositório da materia Lógica da Programação
